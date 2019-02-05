@@ -43,12 +43,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitgnore" value="15" />
-          <entry key="html" value="2544" />
+          <entry key="html" value="2548" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="2544" />
+          <entry key="HTML" value="2548" />
           <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
@@ -59,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/episodes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1213">
-              <caret line="102" column="177" selection-start-line="102" selection-start-column="177" selection-end-line="102" selection-end-column="177" />
+            <state relative-caret-position="538">
+              <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -157,6 +157,8 @@
       <find>episodes.html&quot;</find>
       <find>heroes.html&quot;</find>
       <find>galaxyMap.html&quot;</find>
+      <find>stories.html&quot;</find>
+      <find>episode_\d.html&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace>Star Wars</replace>
@@ -165,6 +167,8 @@
       <replace>episodes.html&quot; target=&quot;_blank&quot;</replace>
       <replace>heroes.html&quot; target=&quot;_blank&quot;</replace>
       <replace>galaxyMap.html&quot; target=&quot;_blank&quot;</replace>
+      <replace>stories.html&quot; target=&quot;_blank&quot;</replace>
+      <replace>episode_\d.html&quot; target=&quot;_blank&quot;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -227,7 +231,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549384866128" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549385663998" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -263,9 +267,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -279,7 +282,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -357,8 +360,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/episodes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1213">
-          <caret line="102" column="177" selection-start-line="102" selection-start-column="177" selection-end-line="102" selection-end-column="177" />
+        <state relative-caret-position="538">
+          <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
         </state>
       </provider>
     </entry>
