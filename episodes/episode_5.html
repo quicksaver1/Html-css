@@ -1,16 +1,87 @@
+
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>
-            "Эпизод 5"
-        </title>
-        <meta charset="UTF-8">
-    </head>
-    <body>
-        <h1>Эпизод V: Империя наносит ответный удар</h1>
-        <h2>
-            Сюжет
-        </h2>
-        <hr>
-    </body>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Star Wars</title>
+    <style>
+        .logo{
+        position: relative;
+        top:0px;
+        width: 240px;
+        left: calc(50% - 120px);
+        }
+        .nav{
+            position: absolute;
+            width: 100%;
+            height: 20%;
+            left: 0px;
+            top: 80%;
+
+        }
+        .header{
+        position: absolute;
+        width: 54%;
+        height: 300px;
+        left: 23%;
+        top: 0px;
+        }
+        .footer{
+            position: absolute;
+        width: 100%;
+        height: 100px;
+        left: 0%;
+        bottom: -50%;
+        color:white;
+        }
+         .main{
+            position: absolute;
+            color:white;
+            top:30%;
+            width:100%;
+        }
+
+    </style>
+</head>
+<body background="../images/background.jpg">
+<header class= "header">
+    <img src="../images/logo.png" class="logo" >
+    <nav class="nav">
+        <a href="../index.html" target="_blank">Главная</a>
+        <a href="../episodes.html" target="_blank">Эпизоды</a>
+        <a href="../heroes.html" target="_blank">Герои</a>
+        <a href="../galaxyMap.html" target="_blank">Карта Галактики</a>
+        <a href="../stories.html" target="_blank">История</a>
+    </nav>
+</header>
+
+<main class="main">
+    <h1>Эпизод V: Империя наносит ответный жуар</h1>
+    <img src="../images/poster5.jpg" width="300">
+    <h2>
+        Сюжет
+    </h2>
+    <hr>
+    Борьба за Галактику обостряется в пятом эпизоде космической саги. Войска Императора начинают массированную атаку на повстанцев и их союзников.
+
+    Хан Соло и принцесса Лейя укрываются в Заоблачном Городе, в котором их и захватывает Дарт Вейдер, в то время как Люк Скайуокер находится на таинственной планете джунглей Дагоба.
+
+    Там Мастер — джедай Йода обучает молодого рыцаря навыкам обретения Силы. Люк даже не предполагает, как скоро ему придется воспользоваться знаниями старого Мастера: впереди битва с превосходящими силами Императора и смертельный поединок с Дартом Вейдером.
+    <form>
+        <p><b>Оставить отзыв</b></p>
+        <p><b>Ваше имя:</b><br>
+            <input type="text" size="40" placeholder="Ваше имя">
+        <p>Отзыв<br>
+            <textarea cols="100" rows="10" placeholder="Отзыв"></textarea></p>
+        1 <input type="radio"> 2 <input type="radio"> 3 <input type="radio"> 4 <input type="radio"> 5 <input type="radio"><br>
+        <input type="submit">
+    </form>
+</main>
+<footer class="footer">
+    <hr>
+    Copyright © 2018 Star Wars<br>
+    Design by Incubator 3.0 QA
+</footer>
+</body>
+</body>
 </html>
